@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/movie_container"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/rounded_shape"
+    android:clickable="true"
+    android:layout_margin="1dp"
+    android:padding="@dimen/dimen_20"
+    android:foreground="?attr/selectableItemBackground">
+
+    <ImageView
+        android:id="@+id/iv_movie_poster"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_movie_name"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_vertical_margin"
+        android:textColor="@color/colorAccent"
+        android:textSize="12sp"
+        android:background="@color/colorPrimary"/>
+
+</LinearLayout>

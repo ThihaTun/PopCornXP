@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#00E676</color>
+
+    <color name="black_translucent_60">#99000000</color>
+    <color name="window_background">#282828</color>
+
+    <color name="hint_secondary_text">#AA727272</color>
+
+    <!--&lt;!&ndash; theme adjacent color &ndash;&gt;-->
+    <!--<color name="primary_bright">#25CAF4</color>-->
+    <!--<color name="accent_dark">#882061</color>-->
+
+    <!-- theme on white -->
+    <color name="text_white_ish">#EEE</color>
+    <color name="white_full">#FFF</color>
+
+    <!-- theme on black -->
+    <color name="text_black_ish">#111</color>
+    <color name="black_full">#F000</color>
+
+    <!-- overlays -->
+    <color name="black_overlay">#9000</color>
+    <color name="black_overlay_light">#6000</color>
+    <color name="movie_poster_placeholder">@color/material_red700</color>
+    <color name="material_red700">#ffd32f2f</color>
+
+    <color name="black_transparent_overlay">#8000</color>
+
+
+</resources>

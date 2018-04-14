@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">PopCorn</string>
+    <string name="facebook_app_id">1803401843025718</string>
+    <string name="fb_login_protocol_scheme">fb1803401843025718</string>
+
+
+    // Main Activity
+    <string name="home_screen_title">PopCorn</string>
+
+    // Detail Activity
+    <string name="summary">Summary</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="remove_movie_from_favourite_confirmation_msg">Are you about to remove this movie from your Favourite List ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="share">Share</string>
+
+    // Search Activity
+    <string name="empty_search">You are not connected to internet.</string>
+    <string name="search_hint_movies">Search Movies</string>
+    <string name="ok">Ok</string>
+    <string name="contain_special_char_in_query_msg">Pls check the movie name again.</string>
+    <string name="no_network_msg">Hmm...You device is offline.</string>
+
+    //Login Fragment
+    <string name="msg_enter_email">Enter your email</string>
+    <string name="msg_enter_password">Enter your password</string>
+    <string name="lbl_login_action">Log In</string>
+    <string name="lbl_recover_password">Recover password</string>
+
+    //UserInfo View pod
+    <string name="cd_iv_cover">Default cover image of the user</string>
+    <string name="cd_iv_profile">User profile image</string>
+
+
+    <string name="content_authority">com.example.gl62m7rdx.sqlite_multi_database_test</string>
+    <string name="sync_account_type">com.example.gl62m7rdx.sqlite_multi_database_test</string>
+
+</resources>

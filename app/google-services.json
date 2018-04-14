@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "439306757343",
+    "firebase_url": "https://popcorn-18a42.firebaseio.com",
+    "project_id": "popcorn-18a42",
+    "storage_bucket": "popcorn-18a42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439306757343:android:2c6da4e9bcc24bd9",
+        "android_client_info": {
+          "package_name": "com.example.gl62m7rdx.sqlite_multi_database_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439306757343-dgpr4n93vc5fuui3akhb4l0vcphlp5fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gl62m7rdx.sqlite_multi_database_test",
+            "certificate_hash": "8198b20fac316c328914006c08270d4e0b6227f9"
+          }
+        },
+        {
+          "client_id": "439306757343-btl06efcfi3s4p49hdrcq3bu8lg1djho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5n9hQZLWaUPm0j9pCfr6suJaTHi4IzT4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439306757343-btl06efcfi3s4p49hdrcq3bu8lg1djho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
